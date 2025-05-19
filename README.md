@@ -34,7 +34,7 @@ The design for **Stjärn Bio** was inspired by the atmospheric feeling of old mo
 
 ---
 
-### ** 📸 Screenshots:**  
+###  📸 Screenshots/wireframes/design manual: 
 
 ![WIREFRAME21](https://github.com/user-attachments/assets/9d8af6d7-9dfb-4e8a-b606-f272b9d83755)
 
