@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# 🎥 Stjärn Bio - Film Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple yet elegant movie website created with React.js, featuring smooth scrolling, responsive design, and a modern aesthetic. This project was inspired by classic cinema themes, with a focus on readability, clean code, and user-friendly navigation.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 About the Design
 
-### `npm start`
+The design for **Stjärn Bio** was inspired by the atmospheric feeling of old movie theaters, combined with the sleek, modern look of streaming platforms. Here are the key design choices:  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### **🎨 Color Scheme:**  
+- **Primary:** #181033 (Deep Purple) - Represents the mystery and excitement of cinema.  
+- **Accent:** #573b7b (Royal Purple) - Adds a touch of elegance and sophistication.  
+- **Background:** #b2959e (Warm Beige) - Provides a soft contrast to the dark background, making the content pop.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **🔠 Typography:**  
+- **Font:** Cinzel and Open Sans - Chosen for their cinematic, serif feel combined with modern readability.  
+- **Hierarchy:** Large, bold headings for titles and lighter, smaller text for supporting content.  
 
-### `npm test`
+### **📐 Layout:**  
+- **Navbar:** Sticky and responsive, with a mobile-first approach.  
+- **Hero Section:** Features a large, eye-catching title and call-to-action button.  
+- **Film Cards:** Displayed in a grid with hover effects to indicate interactivity.  
+- **Footer:** Simple and concise, reinforcing brand identity with a logo.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **🖱️ Interactions:**  
+- **Buttons:** Rounded with smooth hover transitions for a tactile feel.  
+- **Mobile Menu:** Side-slide animation for a polished mobile experience.  
+- **Smooth Scroll:** Button to scroll to the film section for better user experience.  
 
-### `npm run build`
+### **🎥 Media:**  
+- **Images:** High-quality film posters in WebP format for faster loading.  
+- **Logo:** SVG for crisp scaling across all devices.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### ** 📸 Screenshots:**  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![WIREFRAME21](https://github.com/user-attachments/assets/9d8af6d7-9dfb-4e8a-b606-f272b9d83755)
 
-### `npm run eject`
+![wireframe22](https://github.com/user-attachments/assets/48c4a1f0-0904-485e-99a9-ac170a8c64db)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![designmanual](https://github.com/user-attachments/assets/5074866f-5e89-4f6d-a321-54870c366e3c)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌐 Design Link  
+[Link to the Figma.  ](https://www.figma.com/design/jfE4LhHNTJPk9YzfVbNeZZ/Grafiska_design?node-id=0-1&m=dev&t=qiJoqnAUBI4HiOnE-1)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Getting Started  
 
-## Learn More
+### **🔧 Prerequisites:**  
+- **Node.js** (version 18+)  
+- **npm** (version 9+)  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **📦 Installation:**  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+Clone the repository:  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/your-repo-name/stjarn-bio.git
+cd stjarn-bio
+npm install
+npm start
