@@ -59,7 +59,7 @@ The design for **Stjärn Bio** was inspired by the atmospheric feeling of old mo
 Clone the repository:  
 
 ```bash
-git clone https://github.com/your-repo-name/stjarn-bio.git
+git clone https://github.com/RidwaanM/Grafisk_design.git
 cd stjarn-bio
 npm install
 npm start
