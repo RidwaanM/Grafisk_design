@@ -40,7 +40,8 @@ The design for **Stjärn Bio** was inspired by the atmospheric feeling of old mo
 
 ![wireframe22](https://github.com/user-attachments/assets/48c4a1f0-0904-485e-99a9-ac170a8c64db)
 
-![designmanual](https://github.com/user-attachments/assets/5074866f-5e89-4f6d-a321-54870c366e3c)
+![designmanual](https://github.com/user-attachments/assets/f87e435a-9a1d-4006-a9eb-eceeaab9bf21)
+
 
 
 ## 🌐 Design Link  
