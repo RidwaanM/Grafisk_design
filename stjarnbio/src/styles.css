@@ -88,7 +88,7 @@ body {
 .background {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('../public/Movie.jpg'); 
+    url('../public/Movie.jpg');
   background-size: cover;
   background-position: center;
   padding: 12rem 6rem;
