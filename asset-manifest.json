@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Grafisk_design/static/css/main.81702571.css",
-    "main.js": "/Grafisk_design/static/js/main.313cca0e.js",
+    "main.js": "/Grafisk_design/static/js/main.b3595cef.js",
     "static/media/Movie.jpg": "/Grafisk_design/static/media/Movie.8c6775e0e11021d24ca3.jpg",
     "index.html": "/Grafisk_design/index.html",
     "main.81702571.css.map": "/Grafisk_design/static/css/main.81702571.css.map",
-    "main.313cca0e.js.map": "/Grafisk_design/static/js/main.313cca0e.js.map"
+    "main.b3595cef.js.map": "/Grafisk_design/static/js/main.b3595cef.js.map"
   },
   "entrypoints": [
     "static/css/main.81702571.css",
-    "static/js/main.313cca0e.js"
+    "static/js/main.b3595cef.js"
   ]
 }
